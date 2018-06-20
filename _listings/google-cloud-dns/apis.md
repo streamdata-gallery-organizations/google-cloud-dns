@@ -10,10 +10,10 @@ description: Google Cloud DNS is a scalable, reliable and managed authoritative 
   user interface, command-line interface or API.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Cloud DNS
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-dns/master/_listings/google-cloud-dns/apis.md
 specificationVersion: "0.14"
 apis:

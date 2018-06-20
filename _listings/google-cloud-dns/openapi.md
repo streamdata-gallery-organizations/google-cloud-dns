@@ -4,7 +4,7 @@ x-collection-name: Google Cloud DNS
 x-complete: 1
 info:
   title: Google Cloud DNS
-  description: configures-and-serves-authoritative-dns-records
+  description: configures-and-serves-authoritative-dns-records-
   contact:
     name: Google
     url: https://google.com
