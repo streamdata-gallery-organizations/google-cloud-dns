@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud DNS",
+	"description": "This is a repository of google cloud dns APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-dns.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-dns.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud DNS",
+			"x-api-slug": "google-cloud-dns",
+			"description": "Google Cloud DNS is a scalable, reliable and managed authoritative Domain Name System (DNS) service running on the same infrastructure as Google. It has low latency, high availability and is a cost-effective way to make your applications and services available to your users. Cloud DNS translates requests for domain names like www.google.com into IP addresses like 74.125.29.101. Cloud DNS is programmable. You can easily publish and manage millions of DNS zones and records using our simple user interface, command-line interface or API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png",
+			"humanURL": "https://cloud.google.com/dns/",
+			"baseURL": "://www.googleapis.com//dns/v1/projects",
+			"tags": "Google Cloud DNS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-dns/master/_listings/google-cloud-dns/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud DNS",
+	"include": [
+		{
+			"name": "Google Cloud DNS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-dns/master/_listings/google-cloud-dns/apis.yaml"
+		}
+	]
+}
